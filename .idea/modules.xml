@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/minprogram.iml" filepath="$PROJECT_DIR$/minprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/mintest/mintest.iml" filepath="$PROJECT_DIR$/mintest/mintest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minwalk/minwalk.iml" filepath="$PROJECT_DIR$/minwalk/minwalk.iml" />
     </modules>
   </component>
 </project>

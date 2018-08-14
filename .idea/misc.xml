@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mintest/pom.xml" />
+        <option value="$PROJECT_DIR$/minwalk/pom.xml" />
       </list>
     </option>
   </component>
